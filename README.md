@@ -8,5 +8,5 @@ This repository can be used to draw the following things:
 5. Image empirical cumulative density function (Empirical CDF)
 
 ### Result
-<img src="https://github.com/YANG-SOBER/Image_histogram_PDF_CDF/blob/main/img_rgb.png" width=50% height=50%>
-<img src="https://github.com/YANG-SOBER/Image_histogram_PDF_CDF/blob/main/rgb_hist.png" width=50% height=50%>
+<img src="https://github.com/YANG-SOBER/Image_histogram_PDF_CDF/blob/main/img_rgb.png" width=75% height=75%>
+<img src="https://github.com/YANG-SOBER/Image_histogram_PDF_CDF/blob/main/rgb_hist.png" width=75% height=75%>
