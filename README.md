@@ -8,7 +8,7 @@
 4. Image empirical probability density function (Empirical PDF)
 5. Image empirical cumulative density function (Empirical CDF)
 
-Note: `image_histogram.py` is used to draw the image gray-scale histogram, while `plot_rgb_hist.py` is used to draw Image rgb histogram.
+Note: `image_histogram.py` is used to draw the image gray-scale histogram, while `plot_rgb_hist.py` is used to draw image rgb histogram.
 
 ### Result of `plot_rgb_hist.py`
 <img src="https://github.com/YANG-SOBER/Image_histogram_PDF_CDF/blob/main/img_rgb.png" width=75% height=75%>
